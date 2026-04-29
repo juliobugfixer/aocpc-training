@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Espaço para imagem -->
-  <img src="/assests/aocpc-2025.jpg" alt="Training Banner" width="600"/>
+  <img src="aocpc-training/assests/aocpc-2025.jpg" alt="Foto na Edição AOCPC 2025" width="600"/>
 </p>
 
 ---
