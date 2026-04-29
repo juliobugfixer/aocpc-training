@@ -75,6 +75,7 @@ Este é um repositório pessoal de treino, mas sugestões e melhorias são sempr
 ## 📂 Estrutura do Repositório
 
 ```bash
+📁 assets/
 📁 codeforces/
 📁 leetcode/
 📁 atcoder/
