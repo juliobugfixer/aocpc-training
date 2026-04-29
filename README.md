@@ -56,9 +56,25 @@ Aqui reúno soluções, anotações e práticas resolvidas em diferentes platafo
 
 ---
 
+## 🎯 Objetivo
+
+Melhorar continuamente minhas habilidades em programação competitiva e alcançar alto desempenho em competições como o AOCPC, resolvendo problemas de diferentes níveis de dificuldade.
+
+---
+
+## 🤝 Contribuição
+
+Este é um repositório pessoal de treino, mas sugestões e melhorias são sempre bem-vindas!
+
+---
+
+## Licença - MIT
+
+---
+
 ## 📂 Estrutura do Repositório
 
-
+```bash
 📁 codeforces/
 📁 leetcode/
 📁 atcoder/
@@ -112,19 +128,3 @@ Aqui reúno soluções, anotações e práticas resolvidas em diferentes platafo
 │
 📁 templates/
 📁 notes/
-
-## 🎯 Objetivo
-
-Melhorar continuamente minhas habilidades em programação competitiva e alcançar alto desempenho em competições como o AOCPC, resolvendo problemas de diferentes níveis de dificuldade.
-
-## 📈 Progresso
-🔹 Problemas resolvidos: 0+
-🔹 Plataformas ativas: Codeforces, LeetCode, AtCoder
-🔹 Foco atual: Estruturas de Dados + Programação Dinâmica
-
-
-## 🤝 Contribuição
-
-Este é um repositório pessoal de treino, mas sugestões e melhorias são sempre bem-vindas!
-
-##Licença MIT
