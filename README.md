@@ -1,8 +1,7 @@
 # 🚀 AOCPC Training Repository
 
 <p align="center">
-  <!-- Espaço para imagem -->
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Training Banner" width="600"/>
+<img src="https://raw.githubusercontent.com/juliobugfixer/aocpc-training/main/assets/aocpc-2025.jpg" alt="Foto na Edição AOCPC 2025" title="Foto na Edição AOCPC 2025" width="600"/>
 </p>
 
 ---
