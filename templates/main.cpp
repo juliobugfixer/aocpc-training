@@ -11,11 +11,14 @@ const ll LINF = 1e18;
 
 // Função principal de resolução
 void solve() {
-
+    cout << "Ola mundo";
 }
 
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
+
+    solve();
+
     return 0;
 }
